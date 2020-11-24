@@ -1,0 +1,3 @@
+This Mastermind game is a 1-player game, that is played in the command line. You can choose to be a code-breaker with a computer randomly generated, or you can choose be a code-maker to create a code for the computer to break. For this program, I assigned numbers 1-6 to each of the colored pegs, so the user only needs to input those numbers to enter or guess the code. There are additional instructions that will be displayed at the beginning of each game.
+
+You can download this repository and run main.rb in the command line.
